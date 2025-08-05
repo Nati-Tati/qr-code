@@ -18,12 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot Desktop](qr-code-component-main\images\Screenshot Desktop.png)
-![Screenshot Mobile](qr-code-component-main\images\Screenshot Mobile.png)
+[Screenshot Desktop](qr-code-component-main\images\Screenshot Desktop.png)
+[Screenshot Mobile](qr-code-component-main\images\Screenshot Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -42,5 +41,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Tati](https://github.com/Nati-Tati)
 - Frontend Mentor - [Frontend Mentor](https://www.frontendmentor.io)
